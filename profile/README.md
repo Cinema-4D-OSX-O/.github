@@ -1,6 +1,6 @@
 # Cinema 4D Advanced
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/d/d8/C4D_Logo.png" width="300" height="auto;"> 
+  <img src="https://upload.wikimedia.org/wikipedia/uk/5/5b/Cinema_4D_logo.png" width="300" height="auto;"> 
 </div>  
 <br>
 <div align="center">
